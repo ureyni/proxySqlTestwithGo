@@ -1,4 +1,4 @@
-package mysqlFunction
+package pkg
 
 import (
 	"database/sql"
